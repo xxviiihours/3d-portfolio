@@ -4,7 +4,7 @@ This is a WiP preview version of 3D porfolio made using React+Vite and three.js.
 
 ## Installation
 
-download/clone the project using git clone or directly download zip file
+download/clone the project using git clone or directly download the zip file
 
 ```bash
 npm install
