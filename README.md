@@ -1,6 +1,6 @@
 # React + Vite + Three.js
 
-This is a WiP porfolio made using React+Vite and three.js
+This is a WiP preview version of 3D porfolio made using React+Vite and three.js. all textures and assets are just sample you can replace it your own.
 
 ## Installation
 
